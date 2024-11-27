@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital_oClock_Api", "Digital_oClock_Api\Digital_oClock_Api.csproj", "{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{747F2BF5-6E3A-430D-8B30-8B85F0323CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{747F2BF5-6E3A-430D-8B30-8B85F0323CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747F2BF5-6E3A-430D-8B30-8B85F0323CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747F2BF5-6E3A-430D-8B30-8B85F0323CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747F2BF5-6E3A-430D-8B30-8B85F0323CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F0A0EB8-130B-4B03-A751-0ADB1F783805}
+	EndGlobalSection
+EndGlobal
