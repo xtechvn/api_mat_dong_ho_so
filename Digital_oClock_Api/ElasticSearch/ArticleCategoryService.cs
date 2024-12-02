@@ -9,7 +9,7 @@ namespace HuloToys_Service.ElasticSearch
 {
     public class ArticleCategoryService : ESRepository<CategoryArticleModel>
     {
-        public string index = "article_category_biolife_store";
+        public string index = "article_category_oclock_store";
         private readonly IConfiguration configuration;
         private static string _ElasticHost;
         private static ElasticClient elasticClient;

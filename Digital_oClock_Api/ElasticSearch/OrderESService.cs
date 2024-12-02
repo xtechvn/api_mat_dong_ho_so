@@ -14,7 +14,7 @@ namespace Caching.Elasticsearch
 {
     public class OrderESService : ESRepository<OrderESModel>
     {
-        public string index = "order_biolife_store";
+        public string index = "order_oclock_store";
         private readonly IConfiguration configuration;
         private static string _ElasticHost;
 

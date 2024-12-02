@@ -9,7 +9,7 @@ namespace Caching.Elasticsearch
 {
     public class AccountClientESService : ESRepository<AccountESModel>
     {
-        public string index = "account_client_biolife_store";
+        public string index = "account_client_oclock_store";
         private readonly IConfiguration configuration;
         private static string _ElasticHost;
 
