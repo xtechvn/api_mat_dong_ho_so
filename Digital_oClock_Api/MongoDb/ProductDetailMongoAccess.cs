@@ -20,10 +20,15 @@ namespace HuloToys_Service.MongoDb
 
         public ProductDetailMongoAccess(IConfiguration configuration)
         {
-            _configuration = configuration;
-            string url = "mongodb://" + configuration["DataBaseConfig:MongoServer:Host"] + "";
-            var client = new MongoClient("mongodb://" + configuration["DataBaseConfig:MongoServer:Host"] + "");
-            IMongoDatabase db = client.GetDatabase(configuration["DataBaseConfig:MongoServer:catalog_core"]);
+            //mongodb://adavigolog_writer:adavigolog_2022@103.163.216.42:27017/?authSource=HoanBds
+            string url = "mongodb://" + configuration["DataBaseConfig:MongoServer:user"] +
+                ":" + configuration["DataBaseConfig:MongoServer:pwd"] +
+                "@" + configuration["DataBaseConfig:MongoServer:Host"] +
+                ":" + configuration["DataBaseConfig:MongoServer:Port"] +
+                "/?authSource=" + configuration["DataBaseConfig:MongoServer:catalog"] + "";
+
+            var client = new MongoClient(url);
+            IMongoDatabase db = client.GetDatabase(configuration["DataBaseConfig:MongoServer:catalog"]);
             _productDetailCollection = db.GetCollection<ProductMongoDbModel>("ProductDetail");
         }
         public async Task<string> AddNewAsync(ProductMongoDbModel model)
