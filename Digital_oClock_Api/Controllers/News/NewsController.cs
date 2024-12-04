@@ -16,7 +16,7 @@ namespace HuloToys_Service.Controllers
 {
     [Route("api/news")]
     [ApiController]
-    [Authorize]
+/*    [Authorize]*/
     public class NewsController : ControllerBase
     {
 

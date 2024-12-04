@@ -1,0 +1,13 @@
+C:\Users\84385\Source\Repos\api_mat_dong_ho_so\Utilities\bin\Debug\net6.0\Utilities.deps.json
+C:\Users\84385\Source\Repos\api_mat_dong_ho_so\Utilities\bin\Debug\net6.0\Utilities.dll
+C:\Users\84385\Source\Repos\api_mat_dong_ho_so\Utilities\bin\Debug\net6.0\Utilities.pdb
+C:\Users\84385\Source\Repos\api_mat_dong_ho_so\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\84385\Source\Repos\api_mat_dong_ho_so\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84385\Source\Repos\api_mat_dong_ho_so\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\84385\Source\Repos\api_mat_dong_ho_so\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\Users\84385\Source\Repos\api_mat_dong_ho_so\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\84385\Source\Repos\api_mat_dong_ho_so\Utilities\obj\Debug\net6.0\Utilities.sourcelink.json
+C:\Users\84385\Source\Repos\api_mat_dong_ho_so\Utilities\obj\Debug\net6.0\Utilities.dll
+C:\Users\84385\Source\Repos\api_mat_dong_ho_so\Utilities\obj\Debug\net6.0\refint\Utilities.dll
+C:\Users\84385\Source\Repos\api_mat_dong_ho_so\Utilities\obj\Debug\net6.0\Utilities.pdb
+C:\Users\84385\Source\Repos\api_mat_dong_ho_so\Utilities\obj\Debug\net6.0\ref\Utilities.dll

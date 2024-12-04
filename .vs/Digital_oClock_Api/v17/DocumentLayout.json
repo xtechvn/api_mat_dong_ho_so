@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|c:\\users\\84385\\source\\repos\\api_mat_dong_ho_so\\digital_oclock_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|solutionrelative:digital_oclock_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|c:\\users\\84385\\source\\repos\\api_mat_dong_ho_so\\digital_oclock_api\\elasticsearch\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|solutionrelative:digital_oclock_api\\elasticsearch\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|c:\\users\\84385\\source\\repos\\api_mat_dong_ho_so\\digital_oclock_api\\controllers\\news\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|solutionrelative:digital_oclock_api\\controllers\\news\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|c:\\users\\84385\\source\\repos\\api_mat_dong_ho_so\\digital_oclock_api\\controllers\\news\\business\\newsbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|solutionrelative:digital_oclock_api\\controllers\\news\\business\\newsbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|c:\\users\\84385\\source\\repos\\api_mat_dong_ho_so\\digital_oclock_api\\elasticsearch\\articlecategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|solutionrelative:digital_oclock_api\\elasticsearch\\articlecategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|c:\\users\\84385\\source\\repos\\api_mat_dong_ho_so\\digital_oclock_api\\elasticsearch\\groupproductesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|solutionrelative:digital_oclock_api\\elasticsearch\\groupproductesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|c:\\users\\84385\\source\\repos\\api_mat_dong_ho_so\\digital_oclock_api\\controllers\\category\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|solutionrelative:digital_oclock_api\\controllers\\category\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|c:\\users\\84385\\source\\repos\\api_mat_dong_ho_so\\digital_oclock_api\\models\\groupproduct\\groupproductesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|solutionrelative:digital_oclock_api\\models\\groupproduct\\groupproductesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747F2BF5-6E3A-430D-8B30-8B85F0323CBE}|Utilities\\Utilities.csproj|c:\\users\\84385\\source\\repos\\api_mat_dong_ho_so\\utilities\\contants\\cachetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747F2BF5-6E3A-430D-8B30-8B85F0323CBE}|Utilities\\Utilities.csproj|solutionrelative:utilities\\contants\\cachetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|c:\\users\\84385\\source\\repos\\api_mat_dong_ho_so\\digital_oclock_api\\controllers\\category\\business\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|solutionrelative:digital_oclock_api\\controllers\\category\\business\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|c:\\users\\84385\\source\\repos\\api_mat_dong_ho_so\\digital_oclock_api\\controllers\\cart\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5F8F04-8FC5-4EFD-8FC3-29A95458D286}|Digital_oClock_Api\\Digital_oClock_Api.csproj|solutionrelative:digital_oclock_api\\controllers\\cart\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 140,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\Controllers\\News\\NewsController.cs",
+              "RelativeDocumentMoniker": "Digital_oClock_Api\\Controllers\\News\\NewsController.cs",
+              "ToolTip": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\Controllers\\News\\NewsController.cs",
+              "RelativeToolTip": "Digital_oClock_Api\\Controllers\\News\\NewsController.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAqwBIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:03:36.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\Controllers\\Category\\Business\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Digital_oClock_Api\\Controllers\\Category\\Business\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\Controllers\\Category\\Business\\CategoryService.cs",
+              "RelativeToolTip": "Digital_oClock_Api\\Controllers\\Category\\Business\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:33:41.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\Controllers\\Category\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Digital_oClock_Api\\Controllers\\Category\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\Controllers\\Category\\CategoryController.cs",
+              "RelativeToolTip": "Digital_oClock_Api\\Controllers\\Category\\CategoryController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwD4AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:17:02.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Digital_oClock_Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\appsettings.json",
+              "RelativeToolTip": "Digital_oClock_Api\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T09:06:42.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupProductESModel.cs",
+              "DocumentMoniker": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\Models\\GroupProduct\\GroupProductESModel.cs",
+              "RelativeDocumentMoniker": "Digital_oClock_Api\\Models\\GroupProduct\\GroupProductESModel.cs",
+              "ToolTip": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\Models\\GroupProduct\\GroupProductESModel.cs",
+              "RelativeToolTip": "Digital_oClock_Api\\Models\\GroupProduct\\GroupProductESModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:46:30.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticleCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\ElasticSearch\\ArticleCategoryService.cs",
+              "RelativeDocumentMoniker": "Digital_oClock_Api\\ElasticSearch\\ArticleCategoryService.cs",
+              "ToolTip": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\ElasticSearch\\ArticleCategoryService.cs",
+              "RelativeToolTip": "Digital_oClock_Api\\ElasticSearch\\ArticleCategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:10:46.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\ElasticSearch\\ArticleService.cs",
+              "RelativeDocumentMoniker": "Digital_oClock_Api\\ElasticSearch\\ArticleService.cs",
+              "ToolTip": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\ElasticSearch\\ArticleService.cs",
+              "RelativeToolTip": "Digital_oClock_Api\\ElasticSearch\\ArticleService.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAASwJ8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:10:54.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\Controllers\\News\\Business\\NewsBusiness.cs",
+              "RelativeDocumentMoniker": "Digital_oClock_Api\\Controllers\\News\\Business\\NewsBusiness.cs",
+              "ToolTip": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\Controllers\\News\\Business\\NewsBusiness.cs",
+              "RelativeToolTip": "Digital_oClock_Api\\Controllers\\News\\Business\\NewsBusiness.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAmwFwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:59:41.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupProductESService.cs",
+              "DocumentMoniker": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\ElasticSearch\\GroupProductESService.cs",
+              "RelativeDocumentMoniker": "Digital_oClock_Api\\ElasticSearch\\GroupProductESService.cs",
+              "ToolTip": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\ElasticSearch\\GroupProductESService.cs",
+              "RelativeToolTip": "Digital_oClock_Api\\ElasticSearch\\GroupProductESService.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:23:38.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CacheType.cs",
+              "DocumentMoniker": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Utilities\\Contants\\CacheType.cs",
+              "RelativeDocumentMoniker": "Utilities\\Contants\\CacheType.cs",
+              "ToolTip": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Utilities\\Contants\\CacheType.cs",
+              "RelativeToolTip": "Utilities\\Contants\\CacheType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:03:38.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\Controllers\\Cart\\CartController.cs",
+              "RelativeDocumentMoniker": "Digital_oClock_Api\\Controllers\\Cart\\CartController.cs",
+              "ToolTip": "C:\\Users\\84385\\source\\Repos\\api_mat_dong_ho_so\\Digital_oClock_Api\\Controllers\\Cart\\CartController.cs",
+              "RelativeToolTip": "Digital_oClock_Api\\Controllers\\Cart\\CartController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:13:59.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 286,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

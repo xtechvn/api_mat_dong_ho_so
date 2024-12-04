@@ -17,7 +17,7 @@ namespace HuloToys_Service.Controllers.Category
 {
     [Route("api/{controller}")]
     [ApiController]
-    [Authorize]
+/*    [Authorize]*/
 
     public class CategoryController : ControllerBase
     {
