@@ -5,7 +5,7 @@ namespace HuloToys_Service.Models.ElasticSearch
 {
     public partial class GroupProductModel
     {
-        [PropertyName("id")]
+        [PropertyName("Id")]
         public int id { get; set; }
         [PropertyName("ParentId")]
         public int parentid { get; set; }
